@@ -1,0 +1,40 @@
+{
+    "phones": [
+        {
+            "id": "1",
+            "model": "Xiaomi MI 6",
+            "description": "Mi 6 es una bestia en rendimiento gracias a su procesador Snapdragon 835 rápido como el rayo y sus 6GB de RAM.",
+            "price": "430",
+            "image": "https://image4.geekbuying.com/ggo_pic/2017-04-19/Xiaomi-Mi-6-5-15-Inch-6GB-128GB-Smartphone---Blue-411072-.jpg",
+            "color": "blue",
+            "colorHex": "#7176D5"
+        },
+        {
+            "id": "2",
+            "model": "Huawuei P20",
+            "description": "Fotos perfectas en todo momento Cámara triple con tecnología IA incorporada. El renacimiento de la fotografía ya está aquí.",
+            "price": "539",
+            "image": "https://static.phonehouse.es/res/autoimg/37895_spc_200_176_qhigh_product.jpg",
+            "color": "black",
+            "colorHex": "#111111"
+        },
+        {
+            "id": "3",
+            "model": "Samsung Galaxy S8",
+            "description": "Descubre una nueva forma de ver el contenido de tu Samsung Galaxy S8+ Plata gracias a su pantalla infinta de 6.2\" con diseño inmersivo.",
+            "price": "489",
+            "image": "https://static.phonehouse.es/res/autoimg/35766_spc_450_450_qlow_product.jpg",
+            "color": "black",
+            "colorHex": "#111111"
+        },
+        {
+            "id": "4",
+            "model": "iPhone 7 128GB",
+            "description": "El iPhone 7 128GB incluye una cámara de 12 mpx con apertura de ƒ/1,8 para hacer fotos y vídeos espectaculares en 4K, incluso con poca luz. Tiene estabilización óptica de imagen, pantalla Retina HD de 4,7 pulgadas con amplia gama cromática y 3D Touch.",
+            "price": "749",
+            "image": "https://static.phonehouse.es/res/autoimg/34565_spc_450_450_qlow_product.jpg",
+            "color": "black",
+            "colorHex": "#111111"
+        }
+    ]
+}

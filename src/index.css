@@ -1,5 +1,29 @@
+@import '~react-redux-spinner/dist/react-redux-spinner.css';
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
 }
+
+
+#nprogress{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  background-color: #ffffffbf;
+}
+
+#nprogress .spinner {
+  top: initial;
+  right:initial;
+}
+#nprogress .spinner-icon {
+  width: 15vh;
+  height: 15vh;
+}
+
+
